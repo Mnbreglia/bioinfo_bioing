@@ -18,8 +18,8 @@ my @protein = <PROTEINFILE>;
 my $protein = join( "",@protein);
 $protein =~ s/\s//g;
 my $proteinSize = length($protein);
-print "\nThe protein is: \n";
-print "$protein\n\n";
+#print "$protein\n\n";
+print("Nuevo print");
 print "It has $proteinSize nucleotides, where the codons and the aminoacid that they code to are: \n";
 
 for (my $i=0; $i<(length($protein)-2); $i+=3){
