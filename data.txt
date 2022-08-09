@@ -1,0 +1,4 @@
+EcoRI;Escherichia coli;GAATTC;G|AATTC
+EcoRII;Escherichia coli;CCWGG;|CCWGG
+TaqI;Thermus aquaticus;TCGA;T|CGA
+SalI;Streptomyces albus;GTCGAC;G|TCGAC
